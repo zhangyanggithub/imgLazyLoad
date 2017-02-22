@@ -1,0 +1,19 @@
+#wrap{
+    position: relative;
+    margin: 0 auto;
+    /*columns: 250px;*/
+}
+.box {
+    width: 230px;
+    padding: 10px;
+    box-sizing: content-box;
+    -webkit-box-shadow: 0 0 10px #999;
+    -moz-box-shadow: 0 0 10px #999;
+    box-shadow: 0 0 10px #999;
+    float: left;
+    margin: 5px 0 5px 10px;
+}
+.box img{
+    width: 230px;
+    height: auto;
+}
